@@ -32,4 +32,4 @@ Slicers: Implemented for an interactive user experience
 Conditional Formatting & Advanced Charting: Used for professional dashboard aesthetics
 
 # Snapshot of dashboard:
-link: 
+link: https://github.com/spoojya/Sales_Dashboard/blob/main/Snapshot_Dashboard.png
